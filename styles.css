@@ -1,0 +1,19 @@
+body{
+  text-align: center;
+  margin: 0;
+
+}
+
+
+h1{
+  color: yellow;
+  background-color: #003865;
+  padding: 40px;
+  font-family: 'Anton', sans-serif;
+  font-size: 100px;
+  margin-top: 0;
+}
+
+img{
+  width: 400px;
+}
